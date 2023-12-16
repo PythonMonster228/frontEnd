@@ -1,0 +1,24 @@
+.form-group textarea {
+    height: 249px;
+    width: 731px;
+    margin-top: 46px;
+    padding-left: 54px;
+    padding-top: 15px;
+    font-size: 16px;
+    font-weight: 400;
+    border: none;
+    border-radius: 7px;
+    font-family: 'Open Sans', sans-serif;
+    color: #CDD7E1;
+    background-color: #e5e5e5;
+    resize: none;
+};
+
+.postData{
+    border: 1vh solid black;
+    border-radius: 40vh;
+    margin-top: 5vh;
+    margin-left: 5vh;
+    margin-right: 5vh;
+    padding: 4vh;
+};
